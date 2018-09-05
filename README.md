@@ -1,12 +1,1 @@
-# kleine-helden
-
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
-
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+Fun small little "who is it" kinda app for the Vranckx team for VRT. I made this very quickly in Angular, using Yeoman. Not much to say about it except it did what it had to do.
